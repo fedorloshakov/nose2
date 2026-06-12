@@ -215,4 +215,4 @@ Recipes
   Example: :class:`nose2.plugins.loader.parameters.Parameters`
 
 .. _argparse : http://pypi.python.org/pypi/argparse/1.2.1
-.. _Sphinx : http://sphinx.pocoo.org/
+.. _Sphinx : https://sphinx-doc.org/
